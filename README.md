@@ -20,5 +20,5 @@ this research identifies that a key future research area is improvement of data 
 improved data collection and cleaning techniques.
 
 ### Technical Report and Code
-The full technical report is linked [here]().  The notebooks in this repo provide a sample of the research 
+The full technical report is linked [here](https://github.com/jjc44/Record_Linkage_NLP/blob/main/CPO%202020%20Tech%20Report%2015JUN20.pdf).  The notebooks in this repo provide a sample of the research 
 completed under this project. 
